@@ -1,3 +1,5 @@
+task 1 = check at which screen its loading AdConfigManager
+
 sab ka ads + billing + app-open ads ka flow main Roman Urdu mein asaan alfaaz mein explain karta hoon — classes kya karti hain, variables ka kya role hai, aur AdMob strategy kya lag rahi hai.
 
 Jaahan jaahan code se baat kar raha hoon, wahan proper citation de raha hoon.
