@@ -1,3 +1,6 @@
+https://github.com/nafiskabbo/Contacts-v2/tree/master/app/src/main/res
+https://play.google.com/store/apps/details?id=org.fossify.contacts
+
 task 1 = check at which screen its loading AdConfigManager
 
 sab ka ads + billing + app-open ads ka flow main Roman Urdu mein asaan alfaaz mein explain karta hoon — classes kya karti hain, variables ka kya role hai, aur AdMob strategy kya lag rahi hai.
